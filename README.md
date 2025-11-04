@@ -32,6 +32,7 @@ SonicMind/
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Documentation file
 └── assets/                     # Optional: for icons or background media
+
 ```
 # 🗣️ Example Commands
 
@@ -39,7 +40,7 @@ SonicMind/
 😂 “Tell me a joke” → Returns a random tech-related joke.
 🌐 “Search for AI tutorials” → Opens a Google search for that topic.
 👋 “Hello” → Greets you back warmly.
----
+
 # 🖌️ UI Preview
 
 🎨 Gradient background + interactive buttons
